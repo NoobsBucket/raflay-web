@@ -327,7 +327,7 @@ export default function Hero() {
                   {[
                     { label: "Products", value: "3" },
                     { label: "Model", value: "B2B+B2C" },
-                    { label: "Founded", value: "2024" },
+                    { label: "Founded", value: "2025" },
                     { label: "Location", value: "ISB, PK" },
                   ].map((stat) => (
                     <div key={stat.label}>

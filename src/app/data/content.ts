@@ -140,7 +140,7 @@ export const team = [
     id: 5,
     name: "Sara Farooq",
     role: "Co-Founder",
-    email: "cofounder@raflay.comm",
+    email: "cofounder@raflay.com",
     bio: "Co-founder at Raflay with a sharp focus on business strategy, growth, and operations. Sarah brings structure to the vision — overseeing partnerships, identifying market opportunities, and ensuring Raflay's products reach the right people.",
     isFounder: true,
     isHod: true,

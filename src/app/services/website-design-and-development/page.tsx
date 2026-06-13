@@ -1,3 +1,5 @@
+export const dynamic = "force-static"
+
 import Navbar from "@/app/components/navbar";
 import Footer from "@/app/components/footer";
 import CategoryPanel from "@/app/components/CategoryPanel";

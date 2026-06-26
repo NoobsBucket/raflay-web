@@ -136,6 +136,8 @@ export const team = [
     isFounder: true,
     image: "https://pub-2bbed4cb70334d47bdd2825ee931d263.r2.dev/prof.jpg",
   },
+
+  
   {
     id: 5,
     name: "Sara Farooq",
@@ -145,6 +147,16 @@ export const team = [
     isFounder: true,
     isHod: true,
     image: "https://pub-2bbed4cb70334d47bdd2825ee931d263.r2.dev/cof_s.jpeg",
+  },
+  {
+    id: 27,
+    name: "Sarmad Khan",
+    role: "Co-Founder",
+    email: "sarmadkhan@raflay.com",
+    bio: "Co-founder at Raflay driving innovation and technical vision. Sarmad brings strategic insight to product development, market expansion, and building strong partnerships that accelerate Raflay's growth and impact.",
+    isFounder: true,
+    isHod: true,
+    image: "https://pub-2bbed4cb70334d47bdd2825ee931d263.r2.dev/20260626_214315.png",
   },
   {
     id: 3,
